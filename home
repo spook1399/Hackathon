@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Music Beats</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<script type="text/javascript" src="js/jquery-1.4.2.min.js" ></script>
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/cufon-replace.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/ITC_Busorama_500.font.js"></script>
+</head>
+<body id="page1">
+	<div class="wrap">
+		<header>
+		<div class="container">
+		  <h1><a href="HOME.html">Music Beats</a></h1>
+		  <nav>
+			<ul>
+			  <li class="m1"><a href="HOME.html" class="active"><span>home</span></a></li>
+			  <li class="m2"><a href="about-us.html"><span>about</span></a></li>
+			  <li class="m3"><a href="genres.html"><span>genres</span></a></li>
+			  <li class="m4"><a href="contact-us.html"><span>contacts</span></a></li>
+			</ul>
+		  </nav>
+		</div>
+		</header>
+		
+		<div class="container">
+			<aside>
+				<div class="inside">
+					<h2>Get In Touch</h2>
+					<ul class="news">
+						<li><a href="https://www.instagram.com/bleachtachio/"><img src="images/iglogo.png" width="50" height="50"></a></li>
+						<li><a href="https://www.facebook.com/qamarina.faithal.16/"><img src="images/fblogo.png" width="50" height="50"></a></li>
+						<li><a href="https://twitter.com/lackinsleep"><img src="images/twitterlogo.png" width="50" height="50"></a></li>
+					</ul>
+				</div>
+			</aside>
+			<section id="content">
+				<div class="wrapper">
+					<article class="col-1">
+					<center>
+						<h2>Welcome to MUSIC BEATS!</h2>
+						<img src="images/1page-img.jpg">
+						<p class="p1">
+						Ever singing to your favourite song but unsure of the lyrics? 
+						We're here to your rescue! We have quite a few 
+						collection of fresh tunes lyrics from various 
+						genres and don't worry we'll keep updating our website everyday 
+						to satisfy you with song lyrics from A to Z.
+						</p>
+					</center>
+					</article>
+					<article class="col-2">
+						<center>
+						<h2>Hot Songs</h2>
+						<ul class="news">
+						  <li><a href="Kick.html"><img src="images/kickit.jpg" width="100" height="100"></a></li>
+						  <li><a href="Kick.html">Kick It</a><strong>By NCT 127</strong></li>
+						  <li><a href="sumpah.html"><img src="images/naim.png" width="100" height="100"></a></li>
+						  <li><a href="sumpah.html">Sumpah</a><strong>By Naim Daniel</strong></li>
+						  <li><a href="HoldOn.html"><img src="images/holdon1.png" width="100" height="100"></a></li>
+						  <li><a href="HoldOn.html">Hold On</a><strong>By Justin Beiber</strong></li>
+						  <li><a href="Easy.html"><img src="images/inadream.png" width="100" height="100"></a></li>
+						  <li><a href="Easy.html">Easy</a><strong>By Troye Sivan</strong></li>
+						</ul>
+						</center>
+					</article>
+				</div>
+			</section>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<footer>
+		<div class="container">
+			<div class="cont-bot"></div>
+			<div class="footerlink">
+				<p class="lf">CMPF 123 SECTION 1 TRIMESTER 2 2020/2021</p>
+				<p class="rf">Design by <a href="about-us.html">False Beauty</a></p>
+				<div style="clear:both;"></div>
+			</div>
+		</div>
+	</footer>
+	<script type="text/javascript"> Cufon.now(); </script>
+</body>
+</html>
